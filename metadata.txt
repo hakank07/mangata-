@@ -1,0 +1,7 @@
+{
+  "name": "hayko operator",
+  "website": "https://github.com/hakank07",
+  "description": "i operate some data",
+  "logo": "https://imgyukle.com/i/ymcDjb",
+  "twitter": "https://x.com/hakank_07"
+}
